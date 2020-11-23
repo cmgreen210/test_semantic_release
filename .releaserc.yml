@@ -1,6 +1,8 @@
 ---
 branches:
   - name: master
+    prerelease: alpha
+  - name: staging
     prerelease: beta
   - name: production
 plugins:
