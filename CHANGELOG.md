@@ -1,5 +1,18 @@
 # Changelog
 
+# 1.0.0-beta.1 (2020-11-24)
+
+
+### Bug Fixes
+
+* add changelog ([e9aab67](https://github.com/cmgreen210/test_semantic_release/commit/e9aab671e0d4a6848510f49578f882636d49c007))
+
+
+### Features
+
+* first commit ([e3ae77b](https://github.com/cmgreen210/test_semantic_release/commit/e3ae77b50e9e81bfa7c7f14824b151ff9ffd1bfe))
+* make master alpha pre-release branch ([0bcdc57](https://github.com/cmgreen210/test_semantic_release/commit/0bcdc57366f50e5dd696413318dd34072150f7b6))
+
 # 1.0.0-alpha.1 (2020-11-24)
 
 
