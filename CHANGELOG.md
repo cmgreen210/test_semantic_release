@@ -1,6 +1,6 @@
 # Changelog
 
-# 1.0.0-alpha.1 (2020-11-23)
+# 1.0.0-alpha.1 (2020-11-24)
 
 
 ### Bug Fixes
